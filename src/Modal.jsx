@@ -16,7 +16,7 @@ const Modal = ({ isOpen, onClose, event }) => {
           {event.start.toString()} <samp>End time ==></samp>
           {event.end.toString()}
         </p>
-        {/* Add any other event details or content here */}
+ 
       </div>
     </div>
   );
